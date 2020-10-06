@@ -3,3 +3,4 @@ new edid number 3
 first new change :)
 edditing in the dazzling_feature branch
 ummmmmm slash:)
+Change made as a collaborator
